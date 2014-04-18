@@ -17,8 +17,10 @@ public class Passengers {
     private String nation;
     private String address;
     private String email;
+    private String gender;
+    private int ticketnum;
 
-    public Passengers(String title, String firstName, String lastName, String nic, String nation, String address, String email) {
+    public Passengers(String title, String firstName, String lastName, String nic, String nation, String address, String email, int ticketnum, String gender) {
         this.title = title;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -26,6 +28,8 @@ public class Passengers {
         this.nation = nation;
         this.address = address;
         this.email = email;
+        this.ticketnum = ticketnum;
+        this.gender = gender;
     }
 
     public Passengers() {
@@ -86,4 +90,22 @@ public class Passengers {
     public void setEmail(String email) {
         this.email = email;
     }
+    
+    public int getTicketnum(){
+        return this.ticketnum;
+    }
+    
+    public void setTicketnum(){
+        this.ticketnum = (int) ((Math.random() * (0.99999 - 0.10000) + 0.1) * 10e+4);
+    }
+    
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    
 }
