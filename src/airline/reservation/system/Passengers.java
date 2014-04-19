@@ -14,18 +14,18 @@ public class Passengers {
     private String firstName;
     private String lastName;
     private String nic;
-    private String nation;
+    private String nationality;
     private String address;
     private String email;
     private String gender;
     private int ticketnum;
 
-    public Passengers(String title, String firstName, String lastName, String nic, String nation, String address, String email, int ticketnum, String gender) {
+    public Passengers(String title, String firstName, String lastName, String nic, String nationality, String address, String email, int ticketnum, String gender) {
         this.title = title;
         this.firstName = firstName;
         this.lastName = lastName;
         this.nic = nic;
-        this.nation = nation;
+        this.nationality = nationality;
         this.address = address;
         this.email = email;
         this.ticketnum = ticketnum;
@@ -67,12 +67,12 @@ public class Passengers {
         this.nic = nic;
     }
 
-    public String getNation() {
-        return nation;
+    public String getNationality() {
+        return nationality;
     }
 
-    public void setNation(String nation) {
-        this.nation = nation;
+    public void setNationality(String nationality) {
+        this.nationality = nationality;
     }
 
     public String getAddress() {
