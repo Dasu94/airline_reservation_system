@@ -1,0 +1,8 @@
+Colombo - Sri Lanka (CMB):UL-210:SC-511:Rs 45,000:Rs 50,000
+Dhaka - Bangladesh (DAC):UL-400:SC-200:Rs 50,000:Rs 60,000
+Dubai - United Arab Emirates (DXB):UL-510:DN-800:Rs 85,000:Rs 95,000
+Gaya - India (GAY):SC-200:DL-120:Rs 30,000:Rs 40,000
+Kuala Lumpur - Malaysia (KUL):KS-500:DL-120:Rs 55,000:Rs 65,000
+Kuwait - Kuwait (KWI):DN-800:SC-511:Rs 75,000:Rs 85,000
+Male - Maldives (MLE):UL-400:KS-500:Rs 60,000:Rs 70,000
+Varanasi - India (VNS):SC-200:KS-500:Rs 45,000:Rs 55,000
