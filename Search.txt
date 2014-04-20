@@ -1,6 +1,14 @@
-Dubai - United Arab Emirates (DXB) : Colombo - Sri Lanka (CMB) : Economy : 1 : 0 : Sat Apr 19 23:00:13 IST 2014 : Sat Apr 19 23:00:13 IST 2014
-Dubai - United Arab Emirates (DXB) : Dhaka - Bangladesh (DAC) : Economy : 1 : 0 : Sat Apr 19 23:09:41 IST 2014 : Sat Apr 19 23:09:41 IST 2014
-Colombo - Sri Lanka (CMB) : Dhaka - Bangladesh (DAC) : Economy : 1 : 0 : Sat Apr 19 23:17:58 IST 2014 : Sat Apr 19 23:17:58 IST 2014
-Colombo - Sri Lanka (CMB) : Dubai - United Arab Emirates (DXB) : Economy : 1 : 0 : Sat Apr 19 23:18:21 IST 2014 : Sat Apr 19 23:18:21 IST 2014
-Dhaka - Bangladesh (DAC) : Dubai - United Arab Emirates (DXB) : Economy : 1 : 0 : Sat Apr 19 23:40:10 IST 2014 : Sat Apr 19 23:40:10 IST 2014
-Colombo - Sri Lanka (CMB) : Dubai - United Arab Emirates (DXB) : Economy : 1 : 0 : Sat Apr 19 23:53:19 IST 2014 : Sat Apr 19 23:53:19 IST 2014
+Dhaka - Bangladesh (DAC) / Dhaka - Bangladesh (DAC) / Economy / 1 / 0 / Sun Apr 20 13:04:24 IST 2014 / Sun Apr 20 13:04:24 IST 2014
+Colombo - Sri Lanka (CMB) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 15:40:57 IST 2014 / Sun Apr 20 15:40:57 IST 2014
+Colombo - Sri Lanka (CMB) / Dhaka - Bangladesh (DAC) / Economy / 1 / 0 / Sun Apr 20 16:33:21 IST 2014 / Mon Apr 21 00:00:00 IST 2014
+Colombo - Sri Lanka (CMB) / Dhaka - Bangladesh (DAC) / Economy / 1 / 0 / Sun Apr 20 16:33:21 IST 2014 / Mon Apr 21 00:00:00 IST 2014
+...................... / ...................... / Economy / 1 / 0 / Sun Apr 20 16:47:12 IST 2014 / Sun Apr 20 16:47:12 IST 2014
+...................... / ...................... / Economy / 1 / 0 / Sun Apr 20 16:47:12 IST 2014 / Sun Apr 20 16:47:12 IST 2014
+Colombo - Sri Lanka (CMB) / Dhaka - Bangladesh (DAC) / Economy / 1 / 0 / Sun Apr 20 18:28:25 IST 2014 / Sun Apr 20 18:28:25 IST 2014
+...................... / ...................... / Economy / 1 / 0 / Sun Apr 20 18:28:59 IST 2014 / Sun Apr 20 18:28:59 IST 2014
+...................... / ...................... / Economy / 1 / 0 / Sun Apr 20 18:28:59 IST 2014 / Sun Apr 20 18:28:59 IST 2014
+Dhaka - Bangladesh (DAC) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 18:31:55 IST 2014 / Sun Apr 20 18:31:55 IST 2014
+Dhaka - Bangladesh (DAC) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 18:31:55 IST 2014 / Sun Apr 20 18:31:55 IST 2014
+Dhaka - Bangladesh (DAC) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 18:31:55 IST 2014 / Sun Apr 20 18:31:55 IST 2014
+Dhaka - Bangladesh (DAC) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 18:31:55 IST 2014 / Sun Apr 20 18:31:55 IST 2014
+Dhaka - Bangladesh (DAC) / Colombo - Sri Lanka (CMB) / Economy / 1 / 0 / Sun Apr 20 18:31:55 IST 2014 / Sun Apr 20 18:31:55 IST 2014
